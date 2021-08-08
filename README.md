@@ -79,9 +79,15 @@
       <td>Estudos React</td>
     </tr>
     <tr>
+      <td>React</td>
+      <td><a href="https://github.com/karlgama/react-hooks" target="_blank">link</a></td>
+      <td>React hooks</td>
+    </tr>
+    <tr>
       <td>Flutter</td>
       <td><a href="https://github.com/karlgama/flutter-bytebank" target="_blank">link</a></td>
       <td>Estudos Flutter</td>
     </tr>
+
   </table>
 
