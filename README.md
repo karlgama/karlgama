@@ -4,7 +4,7 @@
 
 🔭 Hoje trabalho com microfrontends em React em um projeto multinacional(12 países)
 
-🌱 Estou aprofundando meu conhecimento em Java spring boot
+🌱 Estou aprofundando meu conhecimento em Java spring boot React
 
 📫 Como entrar em contato: kaiquesilva49@hotmail.com ou kaiquezgama@gmail.com
 
