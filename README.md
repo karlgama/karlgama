@@ -1,10 +1,10 @@
-## Olá seja bem-vindo,👋
-### Eu sou o Kaique
+## Welcome,👋
+### I'm Kaique,
 
 
-🔭 Hoje trabalho com microfrontends em React em um projeto multinacional
+🔭 Now I'm working with a IOT project using java and spring
 
-📫 Como entrar em contato: kaiquesilva49@hotmail.com ou kaiquezgama@gmail.com
+📫 How to get in touch kaiquesilva49@hotmail.com or kaiquezgama@gmail.com
 
 <div>
   <a href="https://github.com/karlgama">
@@ -36,35 +36,25 @@
     </a>
   </div>
 
-  ## Repositórios principais
+  ## Main repositories
   <table>
-    <th>Tecnologia principal</th>
-    <th>Repositório</th>
-    <th>Observação</th>
+    <th>main tech </th>
+    <th>repo</th>
+    <th>Notes</th>
     <tr>
       <td>spring boot</td>
       <td><a href="https://github.com/karlgama/forum-alura" target="_blank">Fórum</a></td>
-      <td>Fórum - projeto didático</td>
+      <td>Forum - study projetc</td>
     </tr>
     <tr>
       <td>spring boot</td>
       <td><a href="https://github.com/VisumIT/business-boost-api" target="_blank">Business Boost</a></td>
-      <td>TCC - curso técnico em desenvolvimento</td>
+      <td>final technical course work</td>
     </tr>
     <tr>
       <td>spring boot</td>
       <td><a href="https://github.com/karlgama/monitoramento-spring" target="_blank">Monitoramento</a></td>
-      <td>Monitoramento de API</td>
-    </tr>
-    <tr>
-      <td>Laravel</td>
-      <td><a href="https://github.com/karlgama/laravel-estudos" target="_blank">Laravel</a></td>
-      <td>Laravel estudos</td>
-    </tr>
-    <tr>
-      <td>Composer - php</td>
-      <td><a href="https://github.com/karlgama/composer-estudos" target="_blank">Composer</a></td>
-      <td>Composer estudos</td>
+      <td>api monitoring</td>
     </tr>
     <tr>
       <td>JavaScrip</td>
@@ -74,7 +64,7 @@
     <tr>
       <td>React</td>
       <td><a href="https://github.com/karlgama/react-udemy" target="_blank">React</a></td>
-      <td>Estudos React</td>
+      <td>React</td>
     </tr>
     <tr>
       <td>React</td>
@@ -84,7 +74,7 @@
     <tr>
       <td>Flutter</td>
       <td><a href="https://github.com/karlgama/flutter-bytebank" target="_blank">Flutter</a></td>
-      <td>Estudos Flutter</td>
+      <td>Flutter</td>
     </tr>
 
   </table>
@@ -94,7 +84,7 @@
   <table style="
     overflow-y: hidden;
 ">
-    <th>Certificados</th>
+    <th>certificates</th>
     <tr>
       <td><a href="https://cursos.alura.com.br/certificate/ec00e1c5-f074-4f20-9a39-c8a9c72b9fca">Spring Boot API Rest:  Segurança da API, Cache e Monitoramento</a>
       </td>
